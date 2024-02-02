@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+blog: greetings traveller! 👋 this is an attempt to get consistent with writing.
 ---
-
