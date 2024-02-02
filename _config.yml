@@ -1,7 +1,4 @@
 title: blog
 author: bala ramsha
 description: git blog
-remote_theme: pages-themes/dinky@v0.2.0
-show_downloads: false
-plugins:
-- jekyll-remote-theme
+theme: minima
